@@ -1,0 +1,17 @@
+.bo{
+    border-style: solid dotted dashed groove;
+    height: 20px;
+}
+
+.bo1{
+    margin-top: 1rem;
+    height: 20px;
+    border: solid;
+    border-color: red black yellow green;
+}
+.bo2{
+    height: 50px;
+    margin-top: 2rem;
+    border-style: outset;
+   color: red;
+}

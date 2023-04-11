@@ -1,0 +1,11 @@
+body{
+    margin: 1;
+    font-weight: 600;
+    
+}
+.pad{
+    height: 50px;
+    padding: ;
+    border: 2px solid red;
+    padding: 5px 5px;
+}

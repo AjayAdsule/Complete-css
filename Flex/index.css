@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    height: 300px;
+    border: 2px solid blue;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-content: center;
+    align-items: center;
+
+}
+.box{
+    border: 2px solid red;;
+    width: 100px;
+}
+#box-1{
+    flex-grow: 1;
+}
+#box-4{
+    flex-basis: 200px;
+}

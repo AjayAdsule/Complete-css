@@ -1,0 +1,35 @@
+.container{
+    height: 1300px;
+    width: 300px;
+    border: 2px solid red;
+    margin: 50px 100px;
+}
+.box{
+    height: 80px;
+    width: 30%;
+
+
+}
+.box1{
+    background: red;
+    position: relative;
+    top: 15rem;
+    
+}
+.box2{
+    background: yellowgreen;
+    position: absolute;
+    top: 10px;
+    /* left: 0; */
+    right: 0;
+}   
+.box3{
+    background: blue;
+    position: fixed;
+    right:0;
+}
+.box4{
+    background: purple;
+    position: sticky;
+    top: 1px;
+}

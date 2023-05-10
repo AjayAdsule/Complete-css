@@ -1,0 +1,17 @@
+.container{
+    height: 300px;
+    width: 60%;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+}
+.box{
+    height: 150px;
+    width: 20%;
+    border: 2px solid blue;
+    /* box-shadow:20px 15px 5px 15px rgba(21, 193, 104, 0.65) ; */
+    box-shadow: 40px 15px 36px -21px rgba(21, 193, 104, 0.65) ;
+}

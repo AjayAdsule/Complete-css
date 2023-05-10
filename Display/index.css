@@ -1,0 +1,25 @@
+.block{
+    border: 2px solid red;
+    margin-top: 5px;
+    width: 50%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.block2{
+    display: inline;
+    margin-top: 5px;
+    width: 50%;
+    border: 2px solid blue;
+    margin-top: 5px;
+}
+.block3{
+    display: inline-block;
+    border: 2px solid green;
+    height: 100px;
+    width: 40%;
+    margin-top: 30px;
+}
+::selection{
+    color: aqua;
+    background: black;
+}

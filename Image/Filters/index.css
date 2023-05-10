@@ -1,0 +1,6 @@
+img{
+    /* filter: brightness(50%); */
+    /* filter: blur(2px); */
+    /* filter: contrast(50%); */
+    filter: grayscale(50%);
+}
